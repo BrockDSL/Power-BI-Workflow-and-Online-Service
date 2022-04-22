@@ -1,4 +1,4 @@
-![Tool Logo](Image filename)
+![Tool Logo](PowerBI-Workflow.png)
 
 
 # Introduction to Power BI Service
