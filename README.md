@@ -4,7 +4,7 @@
 # Introduction to Power BI Service
 In this workshop you will be introduced to the online portion of Power BI known as Power BI Sevice as well as the basic workflow for working on the platform.  
 
-A basic understanding of Power BI is reccomended for this workshop.
+A basic understanding of Power BI is recommended for this workshop.
 
 *Estimated workshop length: 1 hour*
 
