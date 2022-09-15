@@ -12,7 +12,7 @@ A basic understanding of Power BI is recommended for this workshop.
 ----
 
 ## Setup Instructions
-This workshop requires access to the online version of Power BI known as Power BI service.  To access this platform you will need a microsoft account associated with your work or school.  If your organization uses integrated Office 365 (Brock University does this) then you will be able to log in with your institution credentials.
+This workshop requires access to the online version of Power BI known as Power BI service.  To access this platform you will need either a paid Power BI lisence (a subscription to Office 365 works) or a microsoft account associated with your work or school that provides access.  If your organization uses integrated Office 365 (Brock University does this) then you will be able to log in with your institution credentials.
 
 You will also need to install Power BI Desktop on your computer.  Keep in mind that Power BI Desktop is **not Mac compatible** so if you want to participate in this workshop you will need to use a windows computer or set up a windows environment on your Mac computer.  
   
