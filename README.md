@@ -51,8 +51,8 @@ https://raw.githubusercontent.com/BrockDSL/Introduction-to-Power-BI/master/Mahog
 1. Go to app.powerbi.com and login if it does not automatically do it for you.
 2. Look around at the different sections and then go to “My Workspace”.
 3. Open your report, edit something in it and then save your changes.
-4. Pin your report to a new dashboard and enter “Workshop Dashboard” in the dashboard name field.
-5.  Return to My Workspace and get quick insights on your report by clicking the three dots that appear when you hover over the report and selecting “Quick Insights”.
+4. Pin a live page of your report to a new dashboard and enter “Workshop Dashboard” in the dashboard name field.
+5. Return to My Workspace and get quick insights on your report by clicking the three dots that appear when you hover over the report and selecting “Quick Insights”.
 6. Pin one or more visualizations from your Quick Insights to the dashboard you made.
 7. Take a look at your dashboard then type “Dashboard Completed!!!” in the chat
 
